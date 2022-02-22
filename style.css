@@ -1,0 +1,63 @@
+body {
+    background: #1fa2e5;
+
+}
+
+table { /*พื้นหลัง*/
+    margin: 0 auto;
+    padding: 0 ;
+    border: 2px solid rgb(244, 244, 245);
+    width: 1300px;
+    height: 700px;
+    background-color: #ff9e50;
+    border-spacing: 15px; /*เพิ่มระยะห่างระหว่างเซลล์*/
+    
+}
+
+td.na1 {
+    font: bold;
+}
+
+th,td { /*ภายในเซลล์*/
+    padding: 50px;  /*เพิ่มระยะห่างภายในเซลล์*/
+    background: #ff9e50;    /*เพิ่มสีภายในเซลล์*/
+}
+
+nav.navbernavber-lightbg-light{
+    background: #ff9e50;
+    padding: 0px;
+    
+}
+
+div.carousel-inner {
+    text-align: center;
+    
+}
+
+div.container-fluid {
+    display:inline;
+    background-color:#ff9e50;
+}
+a.navber-brand { /*ชื่อโลโก้*/
+    color: black;
+    text-decoration: none;
+}
+
+td.sidebar {
+    font-size: 40px;
+}
+
+
+td.footer1 {
+    text-align: left;
+    font-size: 20px;
+
+}
+td.footer2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+div.carousel-inner {
+    image-rendering: center;
+}
